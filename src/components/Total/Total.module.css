@@ -1,0 +1,13 @@
+.Total {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    padding: 20px 60px;
+    text-transform: uppercase;
+}
+
+.amount {
+    font-weight: 900;
+}

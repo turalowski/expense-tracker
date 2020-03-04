@@ -1,0 +1,12 @@
+.CustomButton {
+    margin-top: 10px;
+}
+
+button {
+    width: 100%;
+    padding: 10px 20px;
+    background-color: #6E5FBC;
+    color: white;
+    border: 1px solid rgba(121, 116, 116, 0.5);
+    font-size: 18px;
+}

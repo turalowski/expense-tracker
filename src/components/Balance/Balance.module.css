@@ -1,0 +1,15 @@
+.Balance {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+.description {
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.amount {
+    font-size: 32px;
+    font-weight: 900;
+}

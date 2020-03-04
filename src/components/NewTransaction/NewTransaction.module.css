@@ -1,0 +1,14 @@
+.header {
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.note {
+    font-size: 14px;
+    color: red;
+}
+
+.error {
+    color: red;
+}
