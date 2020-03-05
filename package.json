@@ -3,13 +3,21 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.27",
+    "@fortawesome/free-solid-svg-icons": "^5.12.1",
+    "@fortawesome/react-fontawesome": "^0.1.8",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.1",
     "@testing-library/user-event": "^7.2.1",
     "fluent-validator": "^1.1.0",
+    "lodash": "^4.17.15",
+    "lodash.throttle": "^4.1.1",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
+    "react-redux": "^7.2.0",
     "react-scripts": "3.4.0",
+    "redux": "^4.0.5",
+    "uuid": "^7.0.1",
     "validator": "^12.2.0"
   },
   "scripts": {
