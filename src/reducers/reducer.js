@@ -5,7 +5,7 @@ const initialState = {
     transactions: []
   };
 
-const reducer = (state, action) => {
+const reducer = (state=initialState, action) => {
     switch (action.type) {
       case "ADD_TRANSACTION": {
         const newTransactions = [...state.transactions, action.payload];

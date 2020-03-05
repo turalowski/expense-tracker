@@ -1,8 +1,8 @@
 import React from 'react'
-import { useSelector, useDispatch } from 'react-redux';
+import { useSelector} from 'react-redux';
 import styles from './Balance.module.css'
 
-export default function Balance({balance}) {
+export default function Balance() {
     const total = useSelector(state => state.total);
     return (
         <div className={styles.Balance}>
